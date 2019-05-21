@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
+body{
+	background-image: url(../img/back.jpg);
+	font-color: white;
+}
+
+
+#content{
+	width: 900px;
+	height: 1080px;
+	margin: auto;
+	<!-- bachkground: #b9b9b9;
+	background-image: url(../img/fondo.jpg);
+
+}
+
+header{
+	width: 900px;
+	height:100px;
+	display: inline-block;
+	background-image: url(../img/fondo-100x100.jpg)
+}
+
+#header{
+	width: 800px;
+	height: 100px;
+	text-align: right;
+	text-height: 0.5;
+	font-family:'Noto Serif', serif;
+	font-size: 14px; 
+	margin-left: 25px;
+}
+
+#header1{
+	width: 160px;
+	height: 100px;
+	
+	font-family:'Noto Serif', serif;
+	float: right;
+}
+
+img{
+	width: 128px;
+	height: 140px;
+	float: right;
+	margin-top: 75px;
+	margin-right: 75px;
+}
+#primero{
+	font-family:'Noto Serif', serif;
+	text-align: center;
+	font-size: 25px;
+	margin-left: 150px;
+
+
+}
+
+#datos{
+	font-size: 15px;
+	margin-left: 60px;
+	text-align: justify;
+	font-family:'Noto Serif', serif;
+}
+.paragraph{
+	width: 600px;
+}
+.titulo1{
+	font-family:'Noto Serif', serif;
+	text-align: left;
+	font-size: 18px;
+	margin-left: 35px;
+	margin-top: 15px;
+}
+#seccion{
+	width: 90%;
+	margin: auto;
+	margin-bottom: 50px;
+}
+#columna{
+	width: 49%;
+	float: left;
+	padding: 15px;
+	box-sizing: border-box;
+	margin: auto;
+}
+#columna li{
+	font-family: 'Noto Serif', serif;
+	font-size: 15px;
+}
+.lista{
+	width: 100%;
+	margin: auto;
+}
+#lista1{
+	width: 49%;
+	float: left;
+	padding: 5px;
+	box-sizing: border-box;
+	margin: auto;
+}
